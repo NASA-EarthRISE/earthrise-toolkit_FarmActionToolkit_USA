@@ -103,7 +103,8 @@ https://doi.org/10.5281/zenodo.19671983
 
 ## License
 
-This repository is released under the Apache 2.0 License.
+This application is distributed by EarthRISE under the terms of the GPLv3 License. See
+[LICENSE](https://github.com/NASA-EarthRISE/earthrise-toolkit_FarmActionToolkit_USA/blob/main/LICENSE) in this directory for more information.
 
 ---
 
